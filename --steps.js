@@ -14,4 +14,10 @@ For express
 6.node index.js
 7.chekk your brower er locallhosr:5000; and output
 
+------------------
+get
+--------------
+8.cors middleware
+
+
 */
